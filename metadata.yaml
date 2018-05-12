@@ -1,0 +1,41 @@
+_repo: The-Defiant-Agents_25550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - Norton, Andre Alice
+    - Norton, Alice Mary
+    - North, Andrew
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: 'In The Defiant Agents, prolific science fiction writer Andre Norton
+  offers up the best of both worlds: an action-packed read that is truly thought-provoking,
+  as well. Subjected to an experimental procedure against their will, members of several
+  ethnic groups have reverted back to the ways of their distant ancestors and are
+  forced to try to survive on a primitive planet. Will they comply with the aims of
+  this ethically dubious experiment, or will the test have unforeseen consequences?'
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2008-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space and time -- Fiction'
+- !lcc 'PS'
+title: The Defiant Agents
+url: http://www.gutenberg.org/ebooks/25550
